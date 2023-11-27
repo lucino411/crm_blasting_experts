@@ -1,0 +1,53 @@
+blastingExperts
+└─ crm
+   ├─ administration
+   │  └─ userprofile
+   │     ├─ admin.py
+   │     ├─ apps.py
+   │     ├─ models.py
+   │     ├─ tests.py
+   │     └─ views.py
+   ├─ configuration
+   │  └─ option
+   │     ├─ admin.py
+   │     ├─ apps.py
+   │     ├─ models.py
+   │     ├─ tests.py
+   │     └─ views.py
+   ├─ operation
+   │  ├─ company
+   │  │  ├─ admin.py
+   │  │  ├─ apps.py
+   │  │  ├─ models.py
+   │  │  ├─ tests.py
+   │  │  └─ views.py
+   │  ├─ contact
+   │  │  ├─ admin.py
+   │  │  ├─ apps.py
+   │  │  ├─ models.py
+   │  │  ├─ tests.py
+   │  │  └─ views.py
+   │  ├─ deal
+   │  │  ├─ admin.py
+   │  │  ├─ apps.py
+   │  │  ├─ models.py
+   │  │  ├─ tests.py
+   │  │  └─ views.py
+   │  ├─ lead
+   │  │  ├─ admin.py
+   │  │  ├─ apps.py
+   │  │  ├─ models.py
+   │  │  ├─ tests.py
+   │  │  └─ views.py
+   │  └─ task
+   │     ├─ admin.py
+   │     ├─ apps.py
+   │     ├─ models.py
+   │     ├─ tests.py
+   │     └─ views.py
+   ├─ project
+   │  ├─ asgi.py
+   │  ├─ settings.py
+   │  └─ urls.py
+   ├─ static
+   └─ templates
